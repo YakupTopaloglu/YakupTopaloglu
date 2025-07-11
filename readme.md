@@ -69,7 +69,17 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YakupTopaloglu&show_icons=true&locale=en&layout=compact" alt="YakupTopaloglu" /></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YakupTopaloglu&label=Profile%20views&color=0e75b6&style=flat" alt="YakupTopaloglu" />
+
+<h3 align="left">🔧 PCB Design:</h3>
+<p align="left">
+  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/A/altium-designer-logo-44DC9B1E95-seeklogo.com.png" alt="Altium Designer" width="40" height="40"/>
+  </a>
+  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/KiCad_icon.svg" alt="KiCad" width="40" height="40"/>
+  </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakuptopaloglu&show_icons=true&locale=en&layout=compact" alt="yakuptopaloglu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakuptopaloglu&show_icons=true&locale=en" alt="yakuptopaloglu" /></p>
