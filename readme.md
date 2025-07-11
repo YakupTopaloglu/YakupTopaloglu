@@ -73,7 +73,7 @@
 <h3 align="left">🔧 PCB Design:</h3>
 <p align="left">
   <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png]" alt="Altium Designer" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/altium-designer/altium-designer.png" alt="Altium Designer" width="40" height="40"/>
   </a>
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
     <img src="[https://avatars.githubusercontent.com/u/3374914?s=280&v=4]" alt="KiCad" width="40" height="40"/>
