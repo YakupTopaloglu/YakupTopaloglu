@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeie7B-ShCvtP98PgwAuHgUtPnVbSxvbblw&s)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 <h1 align="center">Hi 👋, I'm Yakup</h1>
 <h3 align="center">A Mechatronics Engineer</h3>
