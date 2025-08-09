@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/topaloglu-yakup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="topaloglu-yakup" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@yakup_topaloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yakup_topaloglu" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@yakup_topaloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yakup_topaloglu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Programming Languages:</h3>
