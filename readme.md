@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="MasterHead">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="MasterHead" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yakup</h1>
@@ -9,11 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=yakuptopaloglu&label=Profile%20views&color=0e75b6&style=flat" alt="yakuptopaloglu" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/topaloglu-yakup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="topaloglu-yakup" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@yakup_topaloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yakup_topaloglu" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/topaloglu-yakup" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@yakup_topaloglu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
 </p>
+
+---
 
 <h3 align="left">💻 Programming Languages:</h3>
 <p align="left">
@@ -27,6 +35,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 <h3 align="left">🧰 Frameworks & Libraries:</h3>
 <p align="left">
@@ -47,6 +57,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">⚙️ Tools & Technologies:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -59,9 +71,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 <h3 align="left">🎨 Design Tools:</h3>
 <p align="left">
@@ -70,16 +84,26 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">🔧 PCB Design:</h3>
 <p align="left">
   <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/altium-designer/altium-designer.png" alt="Altium Designer" width="40" height="40"/>
   </a>
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4x" alt="KiCad" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" alt="KiCad" width="40" height="40"/>
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakuptopaloglu&show_icons=true&locale=en&layout=compact" alt="yakuptopaloglu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakuptopaloglu&show_icons=true&locale=en" alt="yakuptopaloglu" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakuptopaloglu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yakuptopaloglu&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
